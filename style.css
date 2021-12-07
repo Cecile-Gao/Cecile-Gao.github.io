@@ -1,0 +1,62 @@
+h1{
+font-size: 20px;
+text-align: center;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    }
+h3{
+    font-size: 20px;
+    text-align: center;
+    }
+h4{
+    font-size: 20px;
+    text-align: center;
+    }  
+h5{
+    font-size: 20px;
+    text-align: center;
+        }
+h6{
+    font-size: 20px;
+    text-align: center;
+        }  
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: white);
+    }
+
+.python {
+    background-color: rgb(209, 34, 41);
+    color: white;
+  }
+.SQL {
+    background-color: rgb(246, 138, 30);
+    color: white;
+  }
+  
+.pandas {
+    background-color: rgb(253, 224, 26);
+    color: white;
+  }
+
+.Matplotlib {
+    background-color: rgb(0, 121, 64);
+    color: white;
+  }
+
+.HTML {
+    background-color: rgb(36, 64, 142);
+    color: white;
+  }
+.CSS {
+    background-color: rgb(115, 41, 130);
+    color: white;
+  }
